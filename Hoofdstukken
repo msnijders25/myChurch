@@ -1,0 +1,235 @@
+public class Main {
+
+    public static void main(String[] args) {
+        Hoofdstuk matthew = new Hoofdstuk();
+         System.out.println(getNaamHoofdstuk());
+
+
+    }
+    public static String getNaamHoofdstuk(){
+        Hoofdstuk matthew = new Mattheüs();
+        String naam =  matthew.getClass().getSimpleName();
+        return naam;
+    }
+}
+class Menu{
+
+}
+class Bijbel{
+Hoofdstuk hoofdstuk;
+
+
+
+}
+
+
+class Hoofdstuk{
+    int aantalHoofdstukken;
+    String naamHoofdstuk;
+
+    Hoofdstuk(){
+
+    }
+
+
+}
+    class Genesis extends Hoofdstuk{
+
+    }
+    class Exodus extends  Hoofdstuk {
+
+
+    }
+    class Leviticus extends  Hoofdstuk{
+
+
+    }
+    class Numeri extends  Hoofdstuk{
+
+    }
+    class Deuteronomium extends  Hoofdstuk{
+
+    }
+    class Jozua extends  Hoofdstuk {
+
+    }
+    class Richteren extends  Hoofdstuk {
+
+    }
+    class Ruth extends  Hoofdstuk {
+
+    }
+    class Samuël1 extends  Hoofdstuk {
+
+        }
+    class Samuël2 extends  Hoofdstuk{
+
+        }
+        class Koningen1 extends  Hoofdstuk {
+
+        }
+        class Koningen2 extends  Hoofdstuk {
+
+        }
+        class Kronieken1 extends  Hoofdstuk{
+
+        }
+        class Kronieken2 extends  Hoofdstuk{
+
+        }
+        class Ezra extends  Hoofdstuk {
+
+        }
+        class Nehemia extends  Hoofdstuk{
+
+        }
+        class Esther extends  Hoofdstuk{
+
+        }
+        class Job extends  Hoofdstuk{
+
+        }
+        class Psalmen extends  Hoofdstuk{
+
+        }
+        class Spreuken extends  Hoofdstuk{
+
+        }
+        class Prediker extends  Hoofdstuk{
+
+        }
+        class Hooglied extends  Hoofdstuk{
+
+        }
+        class Jesaja extends  Hoofdstuk{
+
+        }
+        class Jeremia extends  Hoofdstuk{
+
+        }
+        class Klaagliederen extends  Hoofdstuk{
+
+        }
+        class Ezechiël extends  Hoofdstuk{
+
+        }
+        class Daniël extends  Hoofdstuk{
+
+        }
+        class Hosea extends  Hoofdstuk{
+
+        }
+        class Joël extends  Hoofdstuk{
+
+        }
+        class Amos extends  Hoofdstuk{
+
+        }
+        class Obadja extends  Hoofdstuk{
+
+        }
+        class Jona extends  Hoofdstuk{
+
+        }
+        class Micha extends  Hoofdstuk{
+
+        }
+        class Nahum extends  Hoofdstuk{
+
+        }
+        class Habakuk extends  Hoofdstuk{
+
+        }
+        class Sefanja extends  Hoofdstuk{
+
+        }
+        class Haggai extends  Hoofdstuk{
+
+        }
+        class Zacharia extends  Hoofdstuk{
+
+        }
+        class Maleachi extends  Hoofdstuk{
+
+        }
+        class Mattheüs  extends  Hoofdstuk{
+
+        }
+        class Markus extends  Hoofdstuk{
+
+        }
+        class Lukas extends  Hoofdstuk{
+
+        }
+        class Johannes extends  Hoofdstuk{
+
+        }
+        class Handelingen extends  Hoofdstuk{
+
+        }
+        class Romeinen extends  Hoofdstuk{
+
+        }
+        class Korintiërs1 extends  Hoofdstuk{
+
+        }
+        class Korintiërs2 extends  Hoofdstuk{
+
+        }
+        class Galaten extends  Hoofdstuk{
+
+        }
+        class Efeziërs extends  Hoofdstuk{
+
+        }
+        class Filippenzen extends  Hoofdstuk{
+
+        }
+        class Kolossenzen extends  Hoofdstuk{
+
+        }
+        class Tessalonicenzen1 extends  Hoofdstuk{
+
+        }
+        class Tessalonicenzen2 extends  Hoofdstuk{
+
+        }
+        class Timotheüs1 extends  Hoofdstuk{
+
+        }
+        class Timotheüs2 extends  Hoofdstuk{
+
+        }
+        class Titus extends  Hoofdstuk{
+
+        }
+        class Filemon extends  Hoofdstuk{
+
+        }
+        class Hebreeën extends  Hoofdstuk{
+
+        }
+        class Jakobus extends  Hoofdstuk{
+
+        }
+        class Petrus1 extends  Hoofdstuk{
+
+        }
+        class Petrus2 extends  Hoofdstuk{
+
+        }
+        class Johannes1 extends  Hoofdstuk{
+
+        }
+        class Johannes2 extends  Hoofdstuk{
+
+        }
+        class Johannes3 extends  Hoofdstuk{
+
+        }
+        class Judas extends  Hoofdstuk{
+
+        }
+        class Openbaring extends  Hoofdstuk{
+
+        }
